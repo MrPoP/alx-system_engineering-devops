@@ -1,0 +1,4 @@
+#!/bin/bashselect 0 in ; do
+$0
+done
+pwd
